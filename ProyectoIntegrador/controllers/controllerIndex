@@ -1,0 +1,5 @@
+let controladorIndex {
+
+}
+
+module.exports = controladorIndex;
