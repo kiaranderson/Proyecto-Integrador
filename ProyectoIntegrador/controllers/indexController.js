@@ -1,7 +1,9 @@
-let controlador = {
+let indexController = {
     index: (req, res) => {
-        res.render('index', {titulo: 'kiara'});
+        let prueba = {
+            titulo: 'proyecto',
+        };
     }
 }
 
-module.exports = controlador;
+module.exports = indexController; 
