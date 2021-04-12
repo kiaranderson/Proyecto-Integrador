@@ -1,6 +1,8 @@
 let indexController = {
     index: (req, res) => {
-        let nombre = 'kiara';
+        let prueba = {
+            titulo: 'proyecto',
+        };
     }
 }
 
